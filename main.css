@@ -33,6 +33,16 @@ header li a:hover {
     text-decoration: underline;
 }
 
+#contato a{
+    color: rgb(165, 213, 255);
+    text-decoration: none;
+}
+
+#contato a:hover {
+    color: rgb(255, 146, 146);
+    text-decoration: underline;
+}
+
 .container {
     width: 1366px;
     margin: 0 auto 0 auto;
