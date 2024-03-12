@@ -116,3 +116,27 @@ section h2 {
 #economy a:hover {
     color: red;
 }
+
+#entretenimento {
+    background-color: rgb(202, 146, 255);
+}
+
+#entretenimento a {
+    background-color: rgb(107, 0, 107);
+}
+
+#entretenimento a:hover {
+    color: rgb(255, 0, 255);
+}
+
+#tecnologia {
+    background-color: rgb(174, 172, 255);
+}
+
+#tecnologia a {
+    background-color: rgb(21, 0, 139);
+}
+
+#tecnologia a:hover {
+    color: rgb(62, 138, 253);
+}
